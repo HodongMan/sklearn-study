@@ -13,11 +13,6 @@ from sklearn.neighbors import KNeighborsClassifier
 class IrisDataClassifier:
 
     def __init__(self):
-        self.iris_dataset = None
-        x_train = None
-        X_test = None
-        Y_train = None
-        Y_test = None
         self.initialize()
 
     def initialize(self):
