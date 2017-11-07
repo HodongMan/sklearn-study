@@ -1,9 +1,25 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+averageFriendsConnection	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def averageFriendsConnection(self):$/;"	m	language:Python	class:UsersFriendsContainer
 CassifierToIrisDataAndPrint	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def CassifierToIrisDataAndPrint(self, x_data):$/;"	m	language:Python	class:IrisDataClassifier
+data_scientists_who_like	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^def data_scientists_who_like(target_interest):$/;"	f	language:Python
+friendships	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^friendships = [(0, 1), (0, 2), (1, 2), (1, 3), (2, 3), (3, 4), $/;"	v	language:Python
+friendsListInitialize	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsListInitialize(self):$/;"	m	language:Python	class:UsersFriendsContainer
+friendsOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
+friendsOfFriendsIdsBad	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsOfFriendsIdsBad(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
 initialize	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def initialize(self):$/;"	m	language:Python	class:IrisDataClassifier
+interests	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^interests = [$/;"	v	language:Python
 iris	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    iris = IrisDataClassifier()$/;"	v	language:Python	class:IrisDataClassifier
 IrisDataClassifier	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^class IrisDataClassifier:$/;"	c	language:Python
+isSameUser	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def isSameUser(self, user, other_user, key=True):$/;"	m	language:Python	class:UsersFriendsContainer
+isUserFriendship	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def isUserFriendship(self, user, other_user, key=True):$/;"	m	language:Python	class:UsersFriendsContainer
+numberOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
+numberOfFriendsById	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriendsById(self):$/;"	m	language:Python	class:UsersFriendsContainer
 pltShowIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def pltShowIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 printScaleOfIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printScaleOfIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 printStatusIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printStatusIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
+totalFriendsConnection	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def totalFriendsConnection(self):$/;"	m	language:Python	class:UsersFriendsContainer
+users	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^users = [$/;"	v	language:Python
+UsersFriendsContainer	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^class UsersFriendsContainer:$/;"	c	language:Python
+__getitem__	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def __getitem__(self, index):$/;"	m	language:Python	class:UsersFriendsContainer	file:
+__init__	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def __init__(self, user_list, friends_list):$/;"	m	language:Python	class:UsersFriendsContainer
 __init__	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def __init__(self):$/;"	m	language:Python	class:IrisDataClassifier

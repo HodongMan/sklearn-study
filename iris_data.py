@@ -70,11 +70,11 @@ if __name__ == "__main__":
 
     
     iris = IrisDataClassifier()
-    """
+
     iris.printStatusIrisData()
     iris.printScaleOfIrisData()
     iris.pltShowIrisData()
-    """
-    iris.CassifierToIrisDataAndPrint(np.array([5, 2.9, 1.0, 0.2]))
+    
+    #iris.CassifierToIrisDataAndPrint(np.array([5, 2.9, 1.0, 0.2]))
 
     
