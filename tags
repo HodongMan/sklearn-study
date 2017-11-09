@@ -1,25 +1,61 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+another_double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^another_double = lambda x : 2 * x$/;"	v	language:Python
+another_double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def another_double(x):$/;"	f	language:Python
+apply_to_one	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def apply_to_one(f):$/;"	f	language:Python
 averageFriendsConnection	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def averageFriendsConnection(self):$/;"	m	language:Python	class:UsersFriendsContainer
+barCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def barCharts():$/;"	f	language:Python
 CassifierToIrisDataAndPrint	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def CassifierToIrisDataAndPrint(self, x_data):$/;"	m	language:Python	class:IrisDataClassifier
 data_scientists_who_like	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^def data_scientists_who_like(target_interest):$/;"	f	language:Python
+double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def double(x):$/;"	f	language:Python
+double_quoted_string	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^double_quoted_string = "data science from 007"$/;"	v	language:Python
+empty_dict	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^empty_dict = {}$/;"	v	language:Python
+empty_dict2	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^empty_dict2 = dict()$/;"	v	language:Python
 friendships	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^friendships = [(0, 1), (0, 2), (1, 2), (1, 3), (2, 3), (3, 4), $/;"	v	language:Python
 friendsListInitialize	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsListInitialize(self):$/;"	m	language:Python	class:UsersFriendsContainer
 friendsOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
 friendsOfFriendsIdsBad	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsOfFriendsIdsBad(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
+grades	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^grades = {"Joel" : 80, "Tim" : 95}$/;"	v	language:Python
+heterogeneous_list	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^heterogeneous_list = ["string", 0.1, True]$/;"	v	language:Python
+histogram	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def histogram():$/;"	f	language:Python
 initialize	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def initialize(self):$/;"	m	language:Python	class:IrisDataClassifier
+integer_list	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^integer_list = [1, 2, 3]$/;"	v	language:Python
 interests	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^interests = [$/;"	v	language:Python
 iris	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    iris = IrisDataClassifier()$/;"	v	language:Python	class:IrisDataClassifier
 IrisDataClassifier	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^class IrisDataClassifier:$/;"	c	language:Python
 isSameUser	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def isSameUser(self, user, other_user, key=True):$/;"	m	language:Python	class:UsersFriendsContainer
 isUserFriendship	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def isUserFriendship(self, user, other_user, key=True):$/;"	m	language:Python	class:UsersFriendsContainer
+joels_grade	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^joels_grade = grades["Joel"]$/;"	v	language:Python
+lineCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def lineCharts():$/;"	f	language:Python
+list_length	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^list_length = len(integer_list)$/;"	v	language:Python
+list_of_lists	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^list_of_lists = [integer_list, heterogeneous_list, []]$/;"	v	language:Python
+list_sum	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^list_sum = sum(integer_list)$/;"	v	language:Python
+lookup	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^lookup = defaultdict(int)$/;"	v	language:Python
+message	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^    message = "elif stands for 'else if'"$/;"	v	language:Python
+message	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^    message = "when all esle fails use else"$/;"	v	language:Python
+my_counter	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_counter = Counter()$/;"	v	language:Python
+my_double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_double = double$/;"	v	language:Python
+my_print	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def my_print(message='my default message'):$/;"	f	language:Python
+my_regex	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_regex = re.comple("[0-9]", re.I)$/;"	v	language:Python
+my_tuple	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_tuple = (1, 2)$/;"	v	language:Python
+normalCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def normalCharts():$/;"	f	language:Python
 numberOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
 numberOfFriendsById	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriendsById(self):$/;"	m	language:Python	class:UsersFriendsContainer
 pltShowIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def pltShowIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 printScaleOfIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printScaleOfIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 printStatusIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printStatusIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
+scatterCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def scatterCharts():$/;"	f	language:Python
+single_quoted_string	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^single_quoted_string = 'data science from 007'$/;"	v	language:Python
+sum_add_product	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def sum_add_product(x, y):$/;"	f	language:Python
 totalFriendsConnection	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def totalFriendsConnection(self):$/;"	m	language:Python	class:UsersFriendsContainer
+tweet	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet = {$/;"	v	language:Python
+tweet_imtes	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_imtes = tweet.itmes()$/;"	v	language:Python
+tweet_keys	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_keys = tweet.keys()$/;"	v	language:Python
+tweet_values	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_values = tweet.values()$/;"	v	language:Python
 users	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^users = [$/;"	v	language:Python
 UsersFriendsContainer	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^class UsersFriendsContainer:$/;"	c	language:Python
+x	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^x = apply_to_one(my_double)$/;"	v	language:Python
+x	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^x = [1, 2, 3]$/;"	v	language:Python
+y	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^y = apply_to_one(lambda x : x + 4) # lambda는 후크함수로 많이 쓰인다$/;"	v	language:Python
 __getitem__	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def __getitem__(self, index):$/;"	m	language:Python	class:UsersFriendsContainer	file:
 __init__	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def __init__(self, user_list, friends_list):$/;"	m	language:Python	class:UsersFriendsContainer
 __init__	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def __init__(self):$/;"	m	language:Python	class:IrisDataClassifier

@@ -133,4 +133,4 @@ if __name__ == "__main__":
 
     user_friends = UsersFriendsContainer(users, friendships)
     print(user_friends.numberOfFriendsById())
-    print(user_friends.friendsOfFriends(users[3]))
+    print(user_friends.friendsOfFriends(4))
