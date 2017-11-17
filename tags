@@ -37,11 +37,17 @@ lineCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def
 list_length	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^list_length = len(integer_list)$/;"	v	language:Python
 list_of_lists	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^list_of_lists = [integer_list, heterogeneous_list, []]$/;"	v	language:Python
 list_sum	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^list_sum = sum(integer_list)$/;"	v	language:Python
+loadBostonData	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def loadBostonData(self):$/;"	m	language:Python	class:SupervisedLearning
+loadCancerData	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def loadCancerData(self):$/;"	m	language:Python	class:SupervisedLearning
+loadExtendsBoston	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def loadExtendsBoston(self):$/;"	m	language:Python	class:SupervisedLearning
+loadForgeData	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def loadForgeData(self):$/;"	m	language:Python	class:SupervisedLearning
 lookup	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^lookup = defaultdict(int)$/;"	v	language:Python
 magnitude	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def magnitude(v):$/;"	f	language:Python
 makeGraphDotProductAsVectorProjection	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def makeGraphDotProductAsVectorProjection():$/;"	f	language:Python
 makeMatrixShape	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def makeMatrixShape(rows, cols):$/;"	f	language:Python
 makeNumberOfFriendsHistogram	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def makeNumberOfFriendsHistogram(self):$/;"	m	language:Python	class:StatisticsOfFriends
+makeScatter	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def makeScatter(self):$/;"	m	language:Python	class:SupervisedLearning
+makeWave	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def makeWave(self):$/;"	m	language:Python	class:SupervisedLearning
 matrix	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^    matrix = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])$/;"	v	language:Python
 matrixCompute	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def matrixCompute():$/;"	f	language:Python
 meanValue	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def meanValue(self):$/;"	m	language:Python	class:StatisticsOfFriends
@@ -60,12 +66,15 @@ normalCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^d
 numberOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
 numberOfFriendsById	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriendsById(self):$/;"	m	language:Python	class:UsersFriendsContainer
 pltShowIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def pltShowIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
+printCancerDataform	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def printCancerDataform(self):$/;"	m	language:Python	class:SupervisedLearning
 printScaleOfIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printScaleOfIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 printStatusIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printStatusIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 quantile	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def quantile(self, percent):$/;"	m	language:Python	class:StatisticsOfFriends
+randomKids	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def randomKids():$/;"	f	language:Python
 scalar_multiply	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def scalar_multiply(c, v):$/;"	f	language:Python
 scatterCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def scatterCharts():$/;"	f	language:Python
 single_quoted_string	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^single_quoted_string = 'data science from 007'$/;"	v	language:Python
+sl	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    sl = SupervisedLearning()$/;"	v	language:Python
 smallestValue	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def smallestValue(self):$/;"	m	language:Python	class:StatisticsOfFriends
 squareVector	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def squareVector(v):$/;"	f	language:Python
 standardDeviation	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def standardDeviation(self):$/;"	m	language:Python	class:StatisticsOfFriends
@@ -76,11 +85,13 @@ sumAllVectors	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/
 sumAllVectors	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def sumAllVectors(v, w):$/;"	f	language:Python
 sum_add_product	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def sum_add_product(x, y):$/;"	f	language:Python
 sum_of_squares	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def sum_of_squares(v):$/;"	f	language:Python
+SupervisedLearning	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^class SupervisedLearning:$/;"	c	language:Python
 totalFriendsConnection	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def totalFriendsConnection(self):$/;"	m	language:Python	class:UsersFriendsContainer
 tweet	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet = {$/;"	v	language:Python
 tweet_imtes	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_imtes = tweet.itmes()$/;"	v	language:Python
 tweet_keys	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_keys = tweet.keys()$/;"	v	language:Python
 tweet_values	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_values = tweet.values()$/;"	v	language:Python
+uniformPDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def uniformPDF(x):$/;"	f	language:Python
 users	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^users = [$/;"	v	language:Python
 UsersFriendsContainer	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^class UsersFriendsContainer:$/;"	c	language:Python
 variance	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def variance(self):$/;"	m	language:Python	class:StatisticsOfFriends
@@ -95,5 +106,6 @@ __init__	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    de
 __init__	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def __init__(self):$/;"	m	language:Python	class:IrisDataClassifier
 __init__	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^    def __init__(self, vector):$/;"	m	language:Python	class:Vector
 __init__	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def __init__(self):$/;"	m	language:Python	class:StatisticsOfFriends
+__init__	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def __init__(self):$/;"	m	language:Python	class:SupervisedLearning
 __iter__	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^    def __iter__(self):$/;"	m	language:Python	class:Vector	file:
 __mul__	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^    def __mul__(self, vector):$/;"	m	language:Python	class:Vector	file:

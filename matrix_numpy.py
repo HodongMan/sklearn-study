@@ -15,6 +15,8 @@ def matrixCompute():
     print("{} - {} = {}".format(a, b, a-b))
     print("{} ** 2 = {}".format(b, b**2))
 
+    print("{}".format(a.transpose()))
+
     A = np.array([[1, 1], [0, 1]])
     B = np.array([[2, 0], [3, 4]])
 
