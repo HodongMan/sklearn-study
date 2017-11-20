@@ -5,6 +5,8 @@ another_double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def 
 apply_to_one	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def apply_to_one(f):$/;"	f	language:Python
 averageFriendsConnection	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def averageFriendsConnection(self):$/;"	m	language:Python	class:UsersFriendsContainer
 barCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def barCharts():$/;"	f	language:Python
+bernoulliTrial	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def bernoulliTrial(p):$/;"	f	language:Python
+binomail	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def binomail(n, p):$/;"	f	language:Python
 CassifierToIrisDataAndPrint	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def CassifierToIrisDataAndPrint(self, x_data):$/;"	m	language:Python	class:IrisDataClassifier
 count	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def count(self):$/;"	m	language:Python	class:StatisticsOfFriends
 data_scientists_who_like	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^def data_scientists_who_like(target_interest):$/;"	f	language:Python
@@ -22,11 +24,13 @@ friendsOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	
 friendsOfFriendsIdsBad	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsOfFriendsIdsBad(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
 grades	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^grades = {"Joel" : 80, "Tim" : 95}$/;"	v	language:Python
 heterogeneous_list	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^heterogeneous_list = ["string", 0.1, True]$/;"	v	language:Python
+hi	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    hi = normalUpperBound(0.95, mu_0, sigma_0)$/;"	v	language:Python
 histogram	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def histogram():$/;"	f	language:Python
 initialize	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def initialize(self):$/;"	m	language:Python	class:IrisDataClassifier
 integer_list	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^integer_list = [1, 2, 3]$/;"	v	language:Python
 interests	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^interests = [$/;"	v	language:Python
 interquantile	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def interquantile(self):$/;"	m	language:Python	class:StatisticsOfFriends
+inverseNormalCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def inverseNormalCDF(p, mu=0, sigma=1, tolerance=0.00001):$/;"	f	language:Python
 iris	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    iris = IrisDataClassifier()$/;"	v	language:Python	class:IrisDataClassifier
 IrisDataClassifier	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^class IrisDataClassifier:$/;"	c	language:Python
 isSameUser	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def isSameUser(self, user, other_user, key=True):$/;"	m	language:Python	class:UsersFriendsContainer
@@ -44,6 +48,7 @@ loadForgeData	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning
 lookup	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^lookup = defaultdict(int)$/;"	v	language:Python
 magnitude	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def magnitude(v):$/;"	f	language:Python
 makeGraphDotProductAsVectorProjection	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def makeGraphDotProductAsVectorProjection():$/;"	f	language:Python
+makeHist	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def makeHist(p, n, num_points):$/;"	f	language:Python
 makeMatrixShape	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def makeMatrixShape(rows, cols):$/;"	f	language:Python
 makeNumberOfFriendsHistogram	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def makeNumberOfFriendsHistogram(self):$/;"	m	language:Python	class:StatisticsOfFriends
 makeScatter	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def makeScatter(self):$/;"	m	language:Python	class:SupervisedLearning
@@ -62,10 +67,24 @@ my_double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_double
 my_print	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def my_print(message='my default message'):$/;"	f	language:Python
 my_regex	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_regex = re.comple("[0-9]", re.I)$/;"	v	language:Python
 my_tuple	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_tuple = (1, 2)$/;"	v	language:Python
+normalApproximationToBinomial	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalApproximationToBinomial(n, p):$/;"	f	language:Python
+normalCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def normalCDF(x, mu=0, sigma=1):$/;"	f	language:Python
 normalCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def normalCharts():$/;"	f	language:Python
+normalLowerBound	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalLowerBound(probability, mu=0, sigma=1):$/;"	f	language:Python
+normalPDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def normalPDF(x, mu=0, sigma=1):$/;"	f	language:Python
+normalProbabilityAbove	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalProbabilityAbove(lo, mu=0, sigma=1):$/;"	f	language:Python
+normalProbabilityBelow	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^normalProbabilityBelow = normalCDF$/;"	v	language:Python
+normalProbabilityBetween	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalProbabilityBetween(lo, hi, mu=0, sigma=1):$/;"	f	language:Python
+normalProbabilityOutSide	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalProbabilityOutSide(lo, hi, mu=0, sigma=1):$/;"	f	language:Python
+normalTwoSidedBounds	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalTwoSidedBounds(probability, mu=0, sigma=1):$/;"	f	language:Python
+normalUpperBound	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalUpperBound(probability, mu=0, sigma=1):$/;"	f	language:Python
 numberOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
 numberOfFriendsById	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriendsById(self):$/;"	m	language:Python	class:UsersFriendsContainer
+plotNormalCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def plotNormalCDF():$/;"	f	language:Python
+plotNormalPDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def plotNormalPDF():$/;"	f	language:Python
 pltShowIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def pltShowIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
+power	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    power = 1 - type_2_probability$/;"	v	language:Python
+power	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    power = 1 - type_2_probability$/;"	v	language:Python
 printCancerDataform	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def printCancerDataform(self):$/;"	m	language:Python	class:SupervisedLearning
 printScaleOfIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printScaleOfIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 printStatusIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def printStatusIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
@@ -91,6 +110,9 @@ tweet	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet = {$/;"
 tweet_imtes	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_imtes = tweet.itmes()$/;"	v	language:Python
 tweet_keys	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_keys = tweet.keys()$/;"	v	language:Python
 tweet_values	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_values = tweet.values()$/;"	v	language:Python
+type_2_probability	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    type_2_probability = normalProbabilityBelow(hi, mu_1, sigma_1)$/;"	v	language:Python
+type_2_probability	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    type_2_probability = normalProbabilityBetween(lo, hi, mu_1, sigma_1)$/;"	v	language:Python
+uniformCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def uniformCDF(x):$/;"	f	language:Python
 uniformPDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def uniformPDF(x):$/;"	f	language:Python
 users	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^users = [$/;"	v	language:Python
 UsersFriendsContainer	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^class UsersFriendsContainer:$/;"	c	language:Python

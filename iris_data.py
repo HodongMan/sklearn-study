@@ -54,8 +54,10 @@ class IrisDataClassifier:
         knn.fit(self.X_train, self.Y_train)
         print("X_new.shape : {}".format(x_data.shape))
 
+        print(knn);
 
-        prediction = knn.predict(x_data)
+
+        prediction = knn.predict([x_data])
         print("예측 : {}".format(prediction))
         print("예측한 타깃의 이름 : {}".format(self.iris_dataset['target_names'][prediction]))
 
