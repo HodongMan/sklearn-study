@@ -11,13 +11,16 @@ CassifierToIrisDataAndPrint	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_
 count	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def count(self):$/;"	m	language:Python	class:StatisticsOfFriends
 data_scientists_who_like	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^def data_scientists_who_like(target_interest):$/;"	f	language:Python
 decreaseMeanValue	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def decreaseMeanValue(self):$/;"	m	language:Python	class:StatisticsOfFriends
+differenceQuotient	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def differenceQuotient(f, x, h):$/;"	f	language:Python
 dispersion	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def dispersion(self):$/;"	m	language:Python	class:StatisticsOfFriends
+distance	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def distance(v, w):$/;"	f	language:Python
 dot	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def dot(v, w):$/;"	f	language:Python
 dot	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def dot(v, w):$/;"	f	language:Python
 double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def double(x):$/;"	f	language:Python
 double_quoted_string	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^double_quoted_string = "data science from 007"$/;"	v	language:Python
 empty_dict	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^empty_dict = {}$/;"	v	language:Python
 empty_dict2	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^empty_dict2 = dict()$/;"	v	language:Python
+estimateGradient	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def estimateGradient(f, v, h = 0.00001):$/;"	f	language:Python
 friendships	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^friendships = [(0, 1), (0, 2), (1, 2), (1, 3), (2, 3), (3, 4), $/;"	v	language:Python
 friendsListInitialize	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsListInitialize(self):$/;"	m	language:Python	class:UsersFriendsContainer
 friendsOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def friendsOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
@@ -80,6 +83,8 @@ normalTwoSidedBounds	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_a
 normalUpperBound	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalUpperBound(probability, mu=0, sigma=1):$/;"	f	language:Python
 numberOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriends(self, index):$/;"	m	language:Python	class:UsersFriendsContainer
 numberOfFriendsById	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def numberOfFriendsById(self):$/;"	m	language:Python	class:UsersFriendsContainer
+partialDifferenceQuotient	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def partialDifferenceQuotient(f, v, i, h):$/;"	f	language:Python
+plotEstimateDerivative	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def plotEstimateDerivative():$/;"	f	language:Python
 plotNormalCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def plotNormalCDF():$/;"	f	language:Python
 plotNormalPDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def plotNormalPDF():$/;"	f	language:Python
 pltShowIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def pltShowIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
@@ -99,9 +104,12 @@ squareVector	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^
 standardDeviation	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def standardDeviation(self):$/;"	m	language:Python	class:StatisticsOfFriends
 StatisticsOfFriends	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^class StatisticsOfFriends:$/;"	c	language:Python
 stats	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    stats = StatisticsOfFriends()$/;"	v	language:Python	class:StatisticsOfFriends
+step	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def step(v, direction, step_size):$/;"	f	language:Python
 subVector	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def subVector(v, w):$/;"	f	language:Python
 sumAllVectors	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^    def sumAllVectors(self):$/;"	m	language:Python	class:Vector
 sumAllVectors	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def sumAllVectors(v, w):$/;"	f	language:Python
+sumOfSquare	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def sumOfSquare(v):$/;"	f	language:Python
+sumOfSquaresGradient	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def sumOfSquaresGradient(x):$/;"	f	language:Python
 sum_add_product	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def sum_add_product(x, y):$/;"	f	language:Python
 sum_of_squares	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def sum_of_squares(v):$/;"	f	language:Python
 SupervisedLearning	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^class SupervisedLearning:$/;"	c	language:Python

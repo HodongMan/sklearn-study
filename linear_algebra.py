@@ -63,6 +63,10 @@ def vector_mean(vectors):
     n = len(vectors)
     return multiplyScalar(1/n, sumAllVectors(vectors))
 
+def distance(v, w):
+
+    return magnitude(subVector(v, w))
+
 def dot(v, w):
 
     """
