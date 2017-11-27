@@ -105,7 +105,7 @@ def makeHist(p, n, num_points):
 if __name__ == "__main__":
 
 
-    """
+    """  
     both_girls = 0 # 두 아이가 모두 딸인 경우
     older_girl = 0 # 첫째가 딸인 경우
     either_girl = 0 # 둘 중 하나가 딸인 경우
