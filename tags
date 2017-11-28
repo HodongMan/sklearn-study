@@ -15,6 +15,7 @@ cost	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent_tensor.py	/
 count	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def count(self):$/;"	m	language:Python	class:StatisticsOfFriends
 data_scientists_who_like	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^def data_scientists_who_like(target_interest):$/;"	f	language:Python
 decreaseMeanValue	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def decreaseMeanValue(self):$/;"	m	language:Python	class:StatisticsOfFriends
+deMeanMatrix	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^def deMeanMatrix(A):$/;"	f	language:Python
 differenceQuotient	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent.py	/^def differenceQuotient(f, x, h):$/;"	f	language:Python
 dispersion	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def dispersion(self):$/;"	m	language:Python	class:StatisticsOfFriends
 distance	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def distance(v, w):$/;"	f	language:Python
@@ -79,7 +80,6 @@ my_double	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_double
 my_print	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def my_print(message='my default message'):$/;"	f	language:Python
 my_regex	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_regex = re.comple("[0-9]", re.I)$/;"	v	language:Python
 my_tuple	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^my_tuple = (1, 2)$/;"	v	language:Python
-normal	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^    normal = [57 * inverseNormalCDF(random.random()) for _ in range(10000)]$/;"	v	language:Python
 normalApproximationToBinomial	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^def normalApproximationToBinomial(n, p):$/;"	f	language:Python
 normalCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def normalCDF(x, mu=0, sigma=1):$/;"	f	language:Python
 normalCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def normalCharts():$/;"	f	language:Python
@@ -111,7 +111,9 @@ randomNormal	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py
 random_row	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^    def random_row():$/;"	f	language:Python	function:makeScatterPlotByMatrix
 regex	/home/jhd9206/바탕화면/prac/Python/sklearn/egrep.py	/^regex = sys.argv[1]$/;"	v	language:Python
 scalar_multiply	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def scalar_multiply(c, v):$/;"	f	language:Python
+scale	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^def scale(data_matrix):$/;"	f	language:Python
 scatterCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def scatterCharts():$/;"	f	language:Python
+scrappingJapanRegionData	/home/jhd9206/바탕화면/prac/Python/sklearn/scraping.py	/^def scrappingJapanRegionData():$/;"	f	language:Python
 sess	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent_tensor.py	/^sess = tf.Session()$/;"	v	language:Python
 single_quoted_string	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^single_quoted_string = 'data science from 007'$/;"	v	language:Python
 sl	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    sl = SupervisedLearning()$/;"	v	language:Python
@@ -137,7 +139,6 @@ tweet_keys	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_ke
 tweet_values	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^tweet_values = tweet.values()$/;"	v	language:Python
 type_2_probability	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    type_2_probability = normalProbabilityBelow(hi, mu_1, sigma_1)$/;"	v	language:Python
 type_2_probability	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    type_2_probability = normalProbabilityBetween(lo, hi, mu_1, sigma_1)$/;"	v	language:Python
-uniform	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^    uniform = [random.randrange(-100, 101) for _ in range(10000)]$/;"	v	language:Python
 uniformCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def uniformCDF(x):$/;"	f	language:Python
 uniformPDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def uniformPDF(x):$/;"	f	language:Python
 users	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^users = [$/;"	v	language:Python

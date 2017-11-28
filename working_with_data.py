@@ -119,7 +119,21 @@ def makeScatterPlotByMatrix():
     plt.show()
 
 
+"""
+    차원 축소
 
+"""
+
+def scale(data_matrix):
+
+    num_rows, num_cols = shape(data_matrix)
+    means = [mean(get_colum)]
+
+def deMeanMatrix(A):
+
+    nr, nc = shape(A)
+    column_means, _ = scale(A)
+    return makeMatrix(nr, nc, lambda i, j : A[i][j] - column_means[j])
 
 if __name__ == "__main__":
 
