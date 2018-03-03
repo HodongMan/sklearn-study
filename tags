@@ -15,9 +15,13 @@ bucketize	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^
 calculateSalesQuantity10to11	/home/jhd9206/바탕화면/prac/Python/sklearn/read.py	/^    def calculateSalesQuantity10to11(self):$/;"	m	language:Python	class:BestItemList
 calculateSalesQuantity9to10	/home/jhd9206/바탕화면/prac/Python/sklearn/read.py	/^    def calculateSalesQuantity9to10(self):$/;"	m	language:Python	class:BestItemList
 CassifierToIrisDataAndPrint	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def CassifierToIrisDataAndPrint(self, x_data):$/;"	m	language:Python	class:IrisDataClassifier
+cities	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^cities = [(-86.75,33.5666666666667,'Python'),(-88.25,30.6833333333333,'Python'),(-112.016666666667,33.4333333333333,'Java'),(-110.933333333333,32.1166666666667,'Java'),(-92.2333333333333,34.7333333333333,'R'),(-121.95,37.7,'R'),(-118.15,33.8166666666667,'Python'),(-118.233333333333,34.05,'Java'),(-122.316666666667,37.8166666666667,'R'),(-117.6,34.05,'Python'),(-116.533333333333,33.8166666666667,'Python'),(-121.5,38.5166666666667,'R'),(-117.166666666667,32.7333333333333,'R'),(-122.383333333333,37.6166666666667,'R'),(-121.933333333333,37.3666666666667,'R'),(-122.016666666667,36.9833333333333,'Python'),(-104.716666666667,38.8166666666667,'Python'),(-104.866666666667,39.75,'Python'),(-72.65,41.7333333333333,'R'),(-75.6,39.6666666666667,'Python'),(-77.0333333333333,38.85,'Python'),(-80.2666666666667,25.8,'Java'),(-81.3833333333333,28.55,'Java'),(-82.5333333333333,27.9666666666667,'Java'),(-84.4333333333333,33.65,'Python'),(-116.216666666667,43.5666666666667,'Python'),(-87.75,41.7833333333333,'Java'),(-86.2833333333333,39.7333333333333,'Java'),(-93.65,41.5333333333333,'Java'),(-97.4166666666667,37.65,'Java'),(-85.7333333333333,38.1833333333333,'Python'),(-90.25,29.9833333333333,'Java'),(-70.3166666666667,43.65,'R'),(-76.6666666666667,39.1833333333333,'R'),(-71.0333333333333,42.3666666666667,'R'),(-72.5333333333333,42.2,'R'),(-83.0166666666667,42.4166666666667,'Python'),(-84.6,42.7833333333333,'Python'),(-93.2166666666667,44.8833333333333,'Python'),(-90.0833333333333,32.3166666666667,'Java'),(-94.5833333333333,39.1166666666667,'Java'),(-90.3833333333333,38.75,'Python'),(-108.533333333333,45.8,'Python'),(-95.9,41.3,'Python'),(-115.166666666667,36.0833333333333,'Java'),(-71.4333333333333,42.9333333333333,'R'),(-74.1666666666667,40.7,'R'),(-106.616666666667,35.05,'Python'),(-78.7333333333333,42.9333333333333,'R'),(-73.9666666666667,40.7833333333333,'R'),(-80.9333333333333,35.2166666666667,'Python'),(-78.7833333333333,35.8666666666667,'Python'),(-100.75,46.7666666666667,'Java'),(-84.5166666666667,39.15,'Java'),(-81.85,41.4,'Java'),(-82.8833333333333,40,'Java'),(-97.6,35.4,'Python'),(-122.666666666667,45.5333333333333,'Python'),(-75.25,39.8833333333333,'Python'),(-80.2166666666667,40.5,'Python'),(-71.4333333333333,41.7333333333333,'R'),(-81.1166666666667,33.95,'R'),(-96.7333333333333,43.5666666666667,'Python'),(-90,35.05,'R'),(-86.6833333333333,36.1166666666667,'R'),(-97.7,30.3,'Python'),(-96.85,32.85,'Java'),(-95.35,29.9666666666667,'Java'),(-98.4666666666667,29.5333333333333,'Java'),(-111.966666666667,40.7666666666667,'Python'),(-73.15,44.4666666666667,'R'),(-77.3333333333333,37.5,'Python'),(-122.3,47.5333333333333,'Python'),(-89.3333333333333,43.1333333333333,'R'),(-104.816666666667,41.15,'Java')]$/;"	v	language:Python
+cities	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^cities = [([longitude, latitude], language) for longitude, latitude, language in cities]$/;"	v	language:Python
+classify_and_plot_grid	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def classify_and_plot_grid(k=1):$/;"	f	language:Python
 correlationMatrix	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^def correlationMatrix(data):$/;"	f	language:Python
 cost	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent_tensor.py	/^cost = tf.reduce_mean(tf.square(hypothesis - y_train))$/;"	v	language:Python
 count	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def count(self):$/;"	m	language:Python	class:StatisticsOfFriends
+count_wrods	/home/jhd9206/바탕화면/prac/Python/sklearn/naive_bayes.py	/^def count_wrods(training_set):$/;"	f	language:Python
 data_scientists_who_like	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^def data_scientists_who_like(target_interest):$/;"	f	language:Python
 decreaseMeanValue	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def decreaseMeanValue(self):$/;"	m	language:Python	class:StatisticsOfFriends
 deMeanMatrix	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^def deMeanMatrix(A):$/;"	f	language:Python
@@ -53,6 +57,7 @@ isSameUser	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    
 isUserFriendship	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def isUserFriendship(self, user, other_user, key=True):$/;"	m	language:Python	class:UsersFriendsContainer
 Item	/home/jhd9206/바탕화면/prac/Python/sklearn/read.py	/^Item = namedtuple("Item", ("name", "normal_price", "price", "sales_quantity_9to10", "sales_quantity_10to11"))$/;"	v	language:Python
 joels_grade	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^joels_grade = grades["Joel"]$/;"	v	language:Python
+knn_classify	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def knn_classify(k, labeled_points, new_point):$/;"	f	language:Python
 largestValue	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def largestValue(self):$/;"	m	language:Python	class:StatisticsOfFriends
 lineCharts	/home/jhd9206/바탕화면/prac/Python/sklearn/visualization.py	/^def lineCharts():$/;"	f	language:Python
 list_length	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^list_length = len(integer_list)$/;"	v	language:Python
@@ -64,6 +69,7 @@ loadExtendsBoston	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_lear
 loadForgeData	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    def loadForgeData(self):$/;"	m	language:Python	class:SupervisedLearning
 lookup	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^lookup = defaultdict(int)$/;"	v	language:Python
 magnitude	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def magnitude(v):$/;"	f	language:Python
+majority_vote	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def majority_vote(labels):$/;"	f	language:Python
 makeGraphDotProductAsVectorProjection	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def makeGraphDotProductAsVectorProjection():$/;"	f	language:Python
 makeHist	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def makeHist(p, n, num_points):$/;"	f	language:Python
 makeHistogram	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^def makeHistogram(points, bucket_size):$/;"	f	language:Python
@@ -108,6 +114,8 @@ plotEstimateDerivative	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_d
 plotHistogram	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^def plotHistogram(points, bucket_size, title=""):$/;"	f	language:Python
 plotNormalCDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def plotNormalCDF():$/;"	f	language:Python
 plotNormalPDF	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def plotNormalPDF():$/;"	f	language:Python
+plot_cities	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def plot_cities():$/;"	f	language:Python
+plot_state_borders	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def plot_state_borders(plt, color='0.8'):$/;"	f	language:Python
 pltShowIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	/^    def pltShowIrisData(self):$/;"	m	language:Python	class:IrisDataClassifier
 power	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    power = 1 - type_2_probability$/;"	v	language:Python
 power	/home/jhd9206/바탕화면/prac/Python/sklearn/hypothesis_and_inference.py	/^    power = 1 - type_2_probability$/;"	v	language:Python
@@ -119,8 +127,11 @@ printStatusIrisData	/home/jhd9206/바탕화면/prac/Python/sklearn/iris_data.py	
 quantile	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def quantile(self, percent):$/;"	m	language:Python	class:StatisticsOfFriends
 randomKids	/home/jhd9206/바탕화면/prac/Python/sklearn/probability.py	/^def randomKids():$/;"	f	language:Python
 randomNormal	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^def randomNormal():$/;"	f	language:Python
+random_distances	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def random_distances(dim, num_pairs):$/;"	f	language:Python
+random_point	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def random_point(dim):$/;"	f	language:Python
 random_row	/home/jhd9206/바탕화면/prac/Python/sklearn/working_with_data.py	/^    def random_row():$/;"	f	language:Python	function:makeScatterPlotByMatrix
 rankedItem	/home/jhd9206/바탕화면/prac/Python/sklearn/read.py	/^rankedItem = namedtuple("rankedItem", ("rank",  'changed_rank', 'name', 'normal_price', 'price', 'discount_price'))$/;"	v	language:Python
+raw_majority_vote	/home/jhd9206/바탕화면/prac/Python/sklearn/neighbors.py	/^def raw_majority_vote(labels):$/;"	f	language:Python
 recall	/home/jhd9206/바탕화면/prac/Python/sklearn/machine_learning.py	/^def recall(tp, fp, fn, tn):$/;"	f	language:Python
 regex	/home/jhd9206/바탕화면/prac/Python/sklearn/egrep.py	/^regex = sys.argv[1]$/;"	v	language:Python
 scalar_multiply	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def scalar_multiply(c, v):$/;"	f	language:Python
@@ -131,6 +142,7 @@ sess	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent_tensor.py	/
 single_quoted_string	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^single_quoted_string = 'data science from 007'$/;"	v	language:Python
 sl	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^    sl = SupervisedLearning()$/;"	v	language:Python
 smallestValue	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def smallestValue(self):$/;"	m	language:Python	class:StatisticsOfFriends
+spam_probability	/home/jhd9206/바탕화면/prac/Python/sklearn/naive_bayes.py	/^def spam_probability(word_probs, message):$/;"	f	language:Python
 split_data	/home/jhd9206/바탕화면/prac/Python/sklearn/machine_learning.py	/^def split_data(data, prop):$/;"	f	language:Python
 squareVector	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def squareVector(v):$/;"	f	language:Python
 standardDeviation	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def standardDeviation(self):$/;"	m	language:Python	class:StatisticsOfFriends
@@ -145,6 +157,7 @@ sumOfSquaresGradient	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_des
 sum_add_product	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^def sum_add_product(x, y):$/;"	f	language:Python
 sum_of_squares	/home/jhd9206/바탕화면/prac/Python/sklearn/matrix_numpy.py	/^def sum_of_squares(v):$/;"	f	language:Python
 SupervisedLearning	/home/jhd9206/바탕화면/prac/Python/sklearn/supervised_learning.py	/^class SupervisedLearning:$/;"	c	language:Python
+tokenize	/home/jhd9206/바탕화면/prac/Python/sklearn/naive_bayes.py	/^def tokenize(message):$/;"	f	language:Python
 totalFriendsConnection	/home/jhd9206/바탕화면/prac/Python/sklearn/introduction.py	/^    def totalFriendsConnection(self):$/;"	m	language:Python	class:UsersFriendsContainer
 train	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent_tensor.py	/^train = optimizer.minimize(cost)$/;"	v	language:Python
 train_test_split	/home/jhd9206/바탕화면/prac/Python/sklearn/machine_learning.py	/^def train_test_split(x, y, test_pct):$/;"	f	language:Python
@@ -162,6 +175,7 @@ variance	/home/jhd9206/바탕화면/prac/Python/sklearn/statistics.py	/^    def 
 Vector	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^class Vector:$/;"	c	language:Python
 vector_mean	/home/jhd9206/바탕화면/prac/Python/sklearn/linear_algebra.py	/^def vector_mean(vectors):$/;"	f	language:Python
 W	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent_tensor.py	/^W = tf.Variable(tf.random_normal([1]), name='weight')$/;"	v	language:Python
+word_probabilities	/home/jhd9206/바탕화면/prac/Python/sklearn/naive_bayes.py	/^def word_probabilities(counts, total_spams, total_non_spams, k=0.5):$/;"	f	language:Python
 x	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^x = apply_to_one(my_double)$/;"	v	language:Python
 x	/home/jhd9206/바탕화면/prac/Python/sklearn/practice.py	/^x = [1, 2, 3]$/;"	v	language:Python
 x_train	/home/jhd9206/바탕화면/prac/Python/sklearn/gradient_descent_tensor.py	/^x_train = [1, 2, 3]$/;"	v	language:Python
